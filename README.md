@@ -1,1 +1,1 @@
-# codingBat
+# codingBat intro exercises
