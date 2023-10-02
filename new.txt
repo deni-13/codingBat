@@ -1,4 +1,3 @@
 new coding exs
 commit
-
-hatali
+dogru
